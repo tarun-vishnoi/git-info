@@ -32,7 +32,7 @@ Git commands :
 
  git branch -d branchName ==>> to delete a branch
 
- git remote add origin https://github.com/tarun-vishnoi/dev.git ==>> to create a remote git repo 
+ git remote add origin https://github.com/tarun-vishnoi/git-info.git ==>> to create a remote git repo 
 
  git remote -v ==>> Shows all available remote repo
 
